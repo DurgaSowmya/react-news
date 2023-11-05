@@ -1,0 +1,22 @@
+.mainDiv {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-img-top {
+  height: 250px;
+  width: 350px;
+}
+
+.card-title {
+  font-style: bold;
+  color: black;
+}
+
+.card-title:hover {
+  text-decoration: underline;
+}
+
+.card-text {
+  font-style: italic;
+}
